@@ -127,27 +127,20 @@
 </a> -->
 
 <p align="center">
-  <a href="https://discord.com/users/835873818627145788/">
-    <img src="https://img.shields.io/badge/-Razod-000?&logo=Discord" alt="Discord: Razod">
-  </a>
-  <a href="https://www.reddit.com/user/razodop/">
-    <img src="https://img.shields.io/badge/-Razod-000?&logo=Reddit" alt="Reddit: Razod">
-  </a>
-  <a href="https://www.instagram.com/sio_riven/">
-    <img src="https://img.shields.io/badge/-Sio Riven-000?&logo=Instagram" alt="Instagram: Sio Riven">
-  </a>
-  <a href="https://X.com/hotrazod">
-    <img src="https://img.shields.io/badge/-Razod-000?&logo=X" alt="X: Razod">
-  </a>
-  <a href="https://github.com/raz0d">
-    <img src="https://img.shields.io/badge/-Razod-000?&logo=GitHub" alt="GitHub: Razod">
-  </a>
-  <a href="https://www.codewars.com/users/raz0d">
-    <img src="https://img.shields.io/badge/-Razod-000?&logo=CodeWars" alt="CodeWars: Razod">
-  </a>
-  <a href="https://leetcode.com/u/raz0d/">
-    <img src="https://img.shields.io/badge/-Razod-000?&logo=LeetCode" alt="LeetCode: Razod">
-  </a>
+
+  <a href="https://discord.com/users/835873818627145788/"><img src="https://img.shields.io/badge/-Razod-000?&logo=Discord" alt="Discord: Razod"></a>
+
+  <a href="https://www.reddit.com/user/razodop/"><img src="https://img.shields.io/badge/-Razod-000?&logo=Reddit" alt="Reddit: Razod"></a>
+
+  <a href="https://www.instagram.com/sio_riven/"><img src="https://img.shields.io/badge/-Sio Riven-000?&logo=Instagram" alt="Instagram: Sio Riven"></a>
+
+  <a href="https://X.com/hotrazod"><img src="https://img.shields.io/badge/-Razod-000?&logo=X" alt="X: Razod"></a>
+  <a href="https://github.com/raz0d"><img src="https://img.shields.io/badge/-Razod-000?&logo=GitHub" alt="GitHub: Razod"></a>
+
+  <a href="https://www.codewars.com/users/raz0d"><img src="https://img.shields.io/badge/-Razod-000?&logo=CodeWars" alt="CodeWars: Razod"></a>
+
+  <a href="https://leetcode.com/u/raz0d/"><img src="https://img.shields.io/badge/-Razod-000?&logo=LeetCode" alt="LeetCode: Razod"></a>
+  
 </p>
 
   <!-- <a href="https://codepen.io/raz0d">
