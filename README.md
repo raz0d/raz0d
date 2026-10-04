@@ -135,6 +135,7 @@
   <a href="https://www.instagram.com/sio_riven/"><img src="https://img.shields.io/badge/-Sio Riven-000?&logo=Instagram" alt="Instagram: Sio Riven"></a>
 
   <a href="https://X.com/hotrazod"><img src="https://img.shields.io/badge/-Razod-000?&logo=X" alt="X: Razod"></a>
+  
   <a href="https://github.com/raz0d"><img src="https://img.shields.io/badge/-Razod-000?&logo=GitHub" alt="GitHub: Razod"></a>
 
   <a href="https://www.codewars.com/users/raz0d"><img src="https://img.shields.io/badge/-Razod-000?&logo=CodeWars" alt="CodeWars: Razod"></a>
