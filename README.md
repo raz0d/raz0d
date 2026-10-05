@@ -95,21 +95,26 @@
 <h3> Hey, I'm Razod 👋 </h3>
 
 - 💻 Computer Science Engineering Undergraduate | Cybersecurity Specialization
-- 🔐 Strongly interested in Cybersecurity, Network Security & Systems
+- 🔐 Strongly interested in Cybersecurity, Network Security, Ethical Hacking & Systems
 - 🌐 Building my foundation in Frontend Development, with Backend Development coming next
-- 🐧 Working with Linux-based environments, networking, system administration & security tooling
+- 🐧 Working extensively with Linux environments, networking, system administration & security tooling
 - 🧪 Building hands-on experience through security labs, network analysis and practical experimentation
 
 <h3> 🧑‍💻 About Me </h3>
 
-- 🎓 Currently pursuing B.Tech in Computer Science Engineering with a specialization in Cybersecurity
-- 🔐 Primarily interested in Cybersecurity, Network Security, Ethical Hacking & Systems
-- 🌐 Currently developing my Frontend Development skills; planning to move into Backend Development afterward
-- 🐧 Working extensively with Linux environments, particularly Kali Linux, while building practical knowledge of networking, system administration and security tooling
-- 🌐 Exploring network reconnaissance, host discovery, packet analysis, traffic inspection and network monitoring
-- 🛡️ Hands-on with tools and concepts including Wireshark, Bettercap, Nmap; coming next is Burp Suite, Zeek and Suricata
-- 💻 Interested in understanding systems from the network and infrastructure level, rather than only working at the application layer
-- 🚀 Focused on building strong fundamentals in Computer Networks, Linux, Operating Systems and Cybersecurity
+- 🎓 Currently pursuing a B.Tech in Computer Science Engineering with a specialization in Cybersecurity.
+
+- 🔐 My primary interests include Cybersecurity, Network Security, Ethical Hacking and Systems, with a focus on understanding how systems work from the network and infrastructure level rather than only the application layer.
+
+- 🌐 Currently developing my Frontend Development skills, with plans to move into Backend Development afterward.
+
+- 🐧 Working with Linux-based environments, particularly Kali Linux, while building practical knowledge of networking, system administration and security tooling.
+
+- 🌐 Exploring network reconnaissance, host discovery, packet analysis, traffic inspection and network monitoring through hands-on experimentation and security labs.
+
+- 🛡️ Currently working with tools and concepts including Wireshark, Bettercap and Nmap, with Burp Suite, Zeek and Suricata coming next.
+
+- 🚀 Focused on building strong fundamentals in Computer Networks, Linux, Operating Systems and Cybersecurity while gaining practical, hands-on experience.
 
 <!-- - 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases** -->
 
