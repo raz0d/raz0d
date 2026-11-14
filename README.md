@@ -276,8 +276,45 @@
 
 ### 💻 Profile Stats
 
-<img alt="raz0d's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=raz0d&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-<img alt="raz0d's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raz0d&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+<!-- GitHub Stats -->
+<p align="left">
+  <img
+    src="https://ghstats.dev/api/card?username=raz0d&bg=1F222E&text=FFFFFF&title_color=F85D7F&icon_color=F8D866&hide_border=true"
+    alt="Razod's GitHub Stats"
+    width="600"
+  />
+</p>
+
+<!-- Top Languages -->
+<p align="left">
+  <img
+    src="https://ghstats.dev/api/langs?username=raz0d&layout=compact&max_langs=8&theme=midnight"
+    alt="Razod's Top Languages"
+    width="600"
+  />
+</p>
+
+<!-- GitHub Contribution Activity -->
+<p align="left">
+  <a href="https://gitshine.com/stats/raz0d">
+    <img
+      src="https://gitshine.com/card/raz0d?theme=night"
+      alt="Razod's GitHub Contribution Stats"
+      width="100%"
+    />
+  </a>
+</p>
+
+<!-- Contribution Activity Sparkline -->
+<p align="left">
+  <img
+    src="https://ghstats.dev/api/sparkline?username=raz0d&days=30&width=800&height=120"
+    alt="Razod's GitHub Activity"
+    width="100%"
+  />
+</p>
+
 
 ### 🔥 Streak Stats
 
