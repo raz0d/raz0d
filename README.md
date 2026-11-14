@@ -273,7 +273,7 @@
 
 &emsp;
 ## 📈 My GitHub Stats and Activity
-<!--
+
 ### 💻 Profile Stats
 
 <img alt="raz0d's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=raz0d&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
@@ -282,33 +282,6 @@
 ### 🔥 Streak Stats
 
 ![raz0d's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=raz0d&theme=tokyonight)
--->
-
-## 📈 My GitHub Stats and Activity
-
-### 💻 Profile Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=raz0d&show_icons=true&include_all_commits=true&theme=react&hide_border=true"
-    height="192"
-    alt="Razod's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raz0d&layout=compact&langs_count=8&theme=react&hide_border=true"
-    height="192"
-    alt="Razod's Top Languages"
-  />
-</p>
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.demolab.com/?user=raz0d&theme=tokyonight"
-    alt="Razod's GitHub Streak"
-  />
-</p>
 
 <!-- ### 📊 Contribution Stats
 
